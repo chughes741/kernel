@@ -1,0 +1,12 @@
+
+
+# Object files
+*.o
+
+# Executables and binaries
+*.bin
+
+# Output files
+os/iso/
+*.iso
+
